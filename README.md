@@ -1,7 +1,7 @@
 # Corey Moura
 
   * I really enjoy playing and watching Disc Golf.
-  * I am a CE major but really enjoy building things with my hands.
+  * I'm a CE major but really enjoy building things with my hands.
   * I enjoy working out and being physically active.
 
 
