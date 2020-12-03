@@ -31,5 +31,18 @@ public class SimpleCalculatorTest {
 		assertEquals(calc.div(8, 2), 4);
 	}
 	
+	@Test
+	public void testPower() {
+		SimpleCalculator calc = new SimpleCalculator();
+		assertEquals(calc.power(2, 4), 16);
+	}
+	
+	@Test
+	public void testMod() {
+		SimpleCalculator calc = new SimpleCalculator();
+		assertEquals(calc.mod(5, 2), 1);
+	}
+	
+	
 }
 
